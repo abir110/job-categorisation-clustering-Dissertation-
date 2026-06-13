@@ -1,0 +1,10 @@
+FINAL PROJECT ARTIFACT
+----------------------
+Final clustering method: KMeans_k20
+Clusters (excluding uncertain): 12
+Silhouette: 0.06958407618484444
+Mean confidence: 0.2059
+Median confidence: 0.1616
+Uncertain (<0.5): 93.71%
+Gaming-only sub-taxonomy silhouette: 0.084
+Non-gaming-only sub-taxonomy silhouette: 0.096

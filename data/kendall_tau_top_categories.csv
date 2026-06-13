@@ -1,0 +1,11 @@
+Original_Category,Dominant_New_Group,Kendall_Tau,p_value
+Operations & Admin,"office, microsoft, ms, excel, communication, management",0.6750996649624627,1.442708546144991e-12
+Accounting & Finance,"office, microsoft, ms, excel, communication, management",0.5669597394765994,2.8537409222050613e-09
+Account Management,"office, microsoft, ms, excel, communication, management",0.5148132074194437,7.291354764710416e-08
+Customer & Community Support,"acquisition, talent, communication, team, management, glsl",0.31019553913460457,0.003550993687391917
+IT & Security,"problem, solving, communication, team, management, game",0.3068492081152704,0.003954883345795511
+Business Development & Sales,"acquisition, talent, communication, team, management, glsl",0.30676226967802034,0.003954892051873231
+Research & Development,"acquisition, talent, communication, team, management, glsl",0.2633800537872537,0.013329790803731551
+Marketing & Advertising,"communication, zeplin, gitlab, grafana, gradle, grading",0.18304013517425904,0.08844526107590137
+"Product, Project, and Program Management","communication, zeplin, gitlab, grafana, gradle, grading",0.18267742258960712,0.08848066574135988
+Engineering & Development,"communication, zeplin, gitlab, grafana, gradle, grading",0.18257418583505536,0.08848951684744068
